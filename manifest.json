@@ -1,11 +1,8 @@
 {
-  "name": "Sort by new Aliexpress",
+  "name": "Sort by new for Aliexpress",
   "author": "HDR",
   "description": "Adds the sort by new button back to aliexpress",
   "version": "1.0",
-  "permissions": [
-      "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": ["*://*.aliexpress.com/wholesale*"],
